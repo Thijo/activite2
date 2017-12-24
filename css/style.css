@@ -5,3 +5,8 @@ h1 {
 	font-weight: bold;
 	color: #fff;
 }
+button {
+	color: #fff;
+	background-color:red;
+	border: 1px solid #333;
+}
